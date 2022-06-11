@@ -15,3 +15,6 @@ for(;$A<$B;$A++){
 echo "Sum of positive numbers: $sum <br>";
 echo "Multiplication of negative numbers: $mult";
 ?>
+
+
+
